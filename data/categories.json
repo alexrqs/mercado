@@ -1,0 +1,1356 @@
+{
+  "categoriesURL": [
+    {
+      "url": "https://motos.mercadolibre.com.co/acc-cuatrimotos/",
+      "visited": true
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/acc-repuestos-nauticos/",
+      "visited": true
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/acc-repuestos-camiones/",
+      "visited": true
+    },
+    {
+      "url": "https://carros.mercadolibre.com.co/accesorios/",
+      "visited": true
+    },
+    {
+      "url": "https://carros.mercadolibre.com.co/audio-vehiculos/",
+      "visited": true
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/gnv/",
+      "visited": true
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/herramientas/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/limpieza/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/llantas/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/navegadores-gps/",
+      "visited": false
+    },
+    {
+      "url": "https://carros.mercadolibre.com.co/repuestos/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/repuestos-maquinaria-pesada/",
+      "visited": false
+    },
+    {
+      "url": "https://motos.mercadolibre.com.co/repuestos/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/rines/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/seguridad-vehicular/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/service-programado/",
+      "visited": false
+    },
+    {
+      "url": "https://vehiculos.mercadolibre.com.co/tuning-performance/",
+      "visited": false
+    },
+    {
+      "url": "https://carros.mercadolibre.com.co/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/alimentos-bebidas/bebidas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/comestibles/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/alimentos-bebidas/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/aves/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/caballos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/conejos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/gatos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/insectos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/peces/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/perros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/reptiles-anfibios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/roedores/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/artesanias/",
+      "visited": false
+    },
+    {
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-billetes-monedas/",
+      "visited": false
+    },
+    {
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-diversas/",
+      "visited": false
+    },
+    {
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-comics/",
+      "visited": false
+    },
+    {
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-filatelia/",
+      "visited": false
+    },
+    {
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-modelismo/",
+      "visited": false
+    },
+    {
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-posters/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/arte/colgante-pared/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/arte/libros-materiales/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/_CategID_441117",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/arte/pinturas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/arte/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/articulos-banos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/articulos-maternidad/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/caminadores-correpasillos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/chupetes-mordedores/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/comida/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/corrales/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/cuarto/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/higiene-cuidado/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/juegos-juguetes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/lactancia-alimentacion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/paseo/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/ropa/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/salud/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/seguridad/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bebes/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/articulos-peluqueria/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/barberia/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/cuidado-piel/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/cuidado-cabello/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/cuidado-cuerpo/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/depilacion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/electrodomesticos-belleza/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/_CategID_431646",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/higiene-personal/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/manicuria-pedicuria/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/maquillajes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/perfumes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/splash-corporal/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/_CategID_417770",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/conciertos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/eventos-deportivos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/eventos-finalizados/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/otras/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/accesorios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/baterias-pilas-cargadores/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/camaras/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/camaras-deportivas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/memorias-digitales/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/telescopios-binoculares/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/videocamaras/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://celulares.mercadolibre.com.co/accesorios/",
+      "visited": false
+    },
+    {
+      "url": "https://celulares.mercadolibre.com.co/",
+      "visited": false
+    },
+    {
+      "url": "https://celulares.mercadolibre.com.co/memorias-celulares/",
+      "visited": false
+    },
+    {
+      "url": "https://telefonos.mercadolibre.com.co/radios-handies/",
+      "visited": false
+    },
+    {
+      "url": "https://celulares.mercadolibre.com.co/smartwatch/",
+      "visited": false
+    },
+    {
+      "url": "https://telefonos.mercadolibre.com.co/tarificadores-cabinas/",
+      "visited": false
+    },
+    {
+      "url": "https://telefonos.mercadolibre.com.co/telefonia-fija/",
+      "visited": false
+    },
+    {
+      "url": "https://telefonos.mercadolibre.com.co/telefonia-ip/",
+      "visited": false
+    },
+    {
+      "url": "https://telefonos.mercadolibre.com.co/inalambricos/",
+      "visited": false
+    },
+    {
+      "url": "https://celulares.mercadolibre.com.co/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/accesorios-portatiles/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/all-in-one/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/apple/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/cds-dvd-virgenes/cds-dvds-virgenes/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/computadores/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/discos-duros-y-externos/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/fuentes-ups-estabilizadores/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/impresion/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/memorias-portatiles-usb/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/memorias-ram/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/mini-pcs/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/monitores/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/palms-agendas-accesorios/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/partes-componentes-pc/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/perifericos-accesorios-pc/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/portatiles/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/quemadores-dvds-cds/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/redes-inalambricas/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/software/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/tablets-accesorios/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/tarjetas-video-captura/",
+      "visited": false
+    },
+    {
+      "url": "https://computacion.mercadolibre.com.co/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://videojuegos.mercadolibre.com.co/nintendo/",
+      "visited": false
+    },
+    {
+      "url": "https://videojuegos.mercadolibre.com.co/playstation/",
+      "visited": false
+    },
+    {
+      "url": "https://videojuegos.mercadolibre.com.co/sega/",
+      "visited": false
+    },
+    {
+      "url": "https://videojuegos.mercadolibre.com.co/videojuegos/",
+      "visited": false
+    },
+    {
+      "url": "https://videojuegos.mercadolibre.com.co/xbox/",
+      "visited": false
+    },
+    {
+      "url": "https://videojuegos.mercadolibre.com.co/otras-marcas/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/aerobics-fitness/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/baloncesto/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/bicicletas-ciclismo/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/boxeo-artes-marciales/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/buceo/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/camping-caza-pesca/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/extremos/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/equipos-maquinas-gimnasia/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/futbol/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/golf/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/natacion/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/paintball-airsoft/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/patines-scooters-skates/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/ropa-deportiva/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/tenis-squash/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/tiro-deportivo/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/yoga-pilates/",
+      "visited": false
+    },
+    {
+      "url": "https://deportes.mercadolibre.com.co/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/climatizacion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/coccion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/dispensadores-purificadores/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/lavado/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/pequenos-electrodomesticos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/refrigeracion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/repuestos-accesorios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/accesorios-audio-video/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/audio-hogar/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/audio-portatil/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/audio-profesional-djs/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/calculadoras/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/componentes-electronicos/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/drones-accesorios/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/dvd/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/equipos-seguridad/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/gps/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/ipod/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/lectores-libros-digitales/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/palms-agendas/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/pilas-cargadores-baterias/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/reproductores-blu-ray/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/reproductores-mp3-mp4/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/televisores/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/proyectores-pantallas/",
+      "visited": false
+    },
+    {
+      "url": "https://electronica.mercadolibre.com.co/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/pisos-paredes-aberturas/aberturas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/mobiliario-banos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/construccion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/_CategID_441119",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/herramientas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/mobiliario-cocinas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/paneles-solares/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/construccion/pinturas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/pisos-paredes-aberturas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/_CategID_435273",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/alcoba/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/bano/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/cocina/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/comedor/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/cuidado-del-hogar-lavanderia/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/decoracion/decoracion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/iluminacion-hogar/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/jardin-exteriores/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/lavadero/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/muebles-escritorio/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/salas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/seguridad-hogar/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/embalajes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/equipamiento-comercial/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/equipamiento/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/industria-gastronomica/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/industria-textil/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/maquinas-industrias/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/seguridad-industrias/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/apartamentos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/bodegas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/casas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/consultorio/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/edificios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/fincas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/habitaciones/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/haciendas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/hoteles-resorts/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/locales/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/lotes-casalotes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/negocios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/oficinas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/parcelas-cementerio/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/inmuebles/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/amplificadores/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bajos-accesorios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/baterias-percusion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/guitarras/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/instrumentos-viento/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/microfonos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/partituras/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/teclados-pianos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ukeleles/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/violines/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/armas-lanzadores-juguetes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/bloques-construccion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/casas-carpas-ninos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/dibujo-pintura-manualidades/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/electronicos-ninos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/figuritas-albumes-cromos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/hobbies/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicale/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-agua-playa/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-mesa-cartas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-parque-aire-libre/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-salon/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juguetes-antiestres-e-ingenio/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juguetes-bromas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juguetes-oficios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juguetes-bebes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/mesas-sillas-ninos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/munecos-munecas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/patines-patinetas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/pelotas-animales-saltarines/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/peluches/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/piscinas-castillos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/titeres-marionetas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/vehiculos-juguete/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/vehiculos-montables-ninos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/catalogos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/comics/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/libros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/manga/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/revistas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/musica-peliculas-series/musica/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/musica-peliculas-series/peliculas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/series-tv/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/musica-peliculas-series/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/pinateria/decoracion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/disfraces/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/pinateria-globos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/pinateria-gorros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/pinateria/pinatas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/pinateria-tanques-gas-helio/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/pinateria-tarjetas-invitacion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/pinateria/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/joyeria/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/relojes-bolsillo/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/relojes-pulso/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/accesorios-moda/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/bermudas-pantalonetas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/blusas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/bolsos-carteras-maletines/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/buzos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/camisas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/camisetas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/chalecos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/chaquetas-abrigos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/faldas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/gabanes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/gafas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/pantalones-jeans/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/pijamas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/deportiva/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/interior/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/bebes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/sacos-cardigans/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/tenis/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/trajes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/vestidos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/vestidos-bano/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/zapatos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/ropa/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-cuidado/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medic/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/equipamiento-odontologico/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-equipos-movilidad/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-fajas-cinturillas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-masajes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-ortopedia/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-suplementos-alimenticios/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-terapias-alternativas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-otros/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/belleza-higiene-personal/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/cursos-clases/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/fiestas-eventos/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/hogar/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/mantenimiento-vehiculos/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/medicina-salud/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/profesionales/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/reparaciones-instalaciones/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/ropa-indumentaria/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/mascotas/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/transporte/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/viajes-turismo/",
+      "visited": false
+    },
+    {
+      "url": "https://servicios.mercadolibre.com.co/otros/otros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/adultos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/antiguedades/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/asistencia-viajero/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/carros-comidas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/coberturas-extendidas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/criptomonedas/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/esoterismo/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/espiritualidad-religion/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/giftcards/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/giros/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/kits-criminalistica/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/licencias-taxis/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/mangas-viento/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/productos-tatuajes/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/recuerdos/",
+      "visited": false
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/otros/",
+      "visited": false
+    }
+  ]
+}

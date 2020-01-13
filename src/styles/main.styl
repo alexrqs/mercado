@@ -1,0 +1,71 @@
+body
+  margin 0
+  font-family monospace
+  letter-spacing: .00714em;
+  font-size 13px
+  width 320px
+
+.headline
+  background-color #222
+  color #ffcc00
+  font-family monospace
+  text-transform uppercase
+  letter-spacing: .00914em;
+  padding 15px 20px
+  margin-top 0
+
+.folder
+  margin-bottom 10px
+
+  &__item
+    margin 2px 0
+    text-decoration none
+
+  &__link
+    color #555
+    position relative
+    text-decoration none
+    transition background 200ms, padding 200ms
+
+    &:hover
+      background #ffcc00
+      font-weight 600
+      padding 4px
+      z-index 1
+
+  &__button
+    background white
+    color #222
+    border none
+    border-radius 3px
+    cursor pointer
+    font-weight 600
+    padding 10px
+    text-align left
+    width 100%
+    transition background 300ms, box-shadow 400ms
+
+    &:hover
+      background #efefef
+
+    &:focus
+      background rgba(85, 85, 85, .3)
+      outline none
+
+    &:active
+      background rgba(85, 85, 85, .6)
+
+  &.one
+    padding-left 0
+    margin-left 10px
+    margin-right 10px
+
+  &.two
+    padding-left 10px
+    list-style none
+    max-height 1px
+    transition: max-height 0.3s ease-out
+    overflow: hidden;
+
+    &.active
+      max-height 100px

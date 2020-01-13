@@ -1,0 +1,1888 @@
+{
+  "storesURL": [
+    {
+      "url": "https://tienda.mercadolibre.com.co/3d",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/3d-print",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/3m",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/3nstar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/adata",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/akg-acoustics",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/amd",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/apc",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/abba",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/accessmatic",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/adidas-performance",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/aerocool",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/aladdin",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/alcatel",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/aldo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/alizz-profesional",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/almacen-dental",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/alpine",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/alto-professional",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/amalia-ropaje",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/amoblando-pullman",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/arbocol",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/arena",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/aromasense",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/arrurr%C3%BA",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/artscase",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/astro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/asus",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/audio-concept",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/audiopro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/audiotechnica",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/aukey",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/autoberlin",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/autos-93",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/avantree",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/avent",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/aviva-home",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bpi",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/brv-moveis",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bsn",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/babalu-fashion",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/babyliss-paris",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/babyliss-pro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/babymarket",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/barbie",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bardot",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bata",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bazhars",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/beez",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/belkin",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/belltec",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/benq",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/benelli",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bestway",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bikexpert",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/black-and-decker-herramientas",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/black-and-decker-hogar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/boing-toys",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bosch",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bowers--wilkins",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bowmann",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/boxi-sleep",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/brake-pak",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/branchos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/brembo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bright-starts",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/brightside",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/brother",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/bushnell",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/cat",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/canariam",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/canon",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/carcaice",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/casa-andina",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/casa-britanica",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/casa-ferretera",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/castrol",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/catalyst",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/celestron",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/centrales",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/challenger",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ciclo-special",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/cinecolor",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/collomix",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/color-siete",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/conair",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/continental",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/continente",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/coolgear",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/cooler-master",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/corelle",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/corsair",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/cougar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/croydon",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/cuisinart",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dahua",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dc-shoes",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dji",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/damecos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/deckorar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/defender",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dekosas",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/denon-dj",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dewalt",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/diagnostiq",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dib",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/digital-pos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/directv",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/discover-tools",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/disney",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/distrab",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dlink",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dmk",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dr-martens",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dragon",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dremel",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dtfly",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ducson",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/dulcementa",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/durespo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/evga",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/easy",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/easy-hitch",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/efergy",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/einhell",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/eltomacorriente",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/electro-japonesa",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/electrolux",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/elgato",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/elite",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ensueno-hogar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/eos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/epson",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/esenses",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/eset",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/estra",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/eureka",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/everlast",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/exclusiv",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/exotiq",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/explora",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fantasia-electronica",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/farmatodo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ferreteria-industrial",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ferreteria-samir",
+      "visited": true
+    },
+    {
+      "url": "https://www.mercadolibre.com.co/ofertas/festival-estereo-picnic",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/first-essentials",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fisherprice",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fitbit",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fjallraven--kanken",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/flashy",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fnebuloni",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/force",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/forja",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fox-racing",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/foxcol",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fujifilm",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fullmoto",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/fullnota",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/funko",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/furius",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gamo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gw",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gx-gaming",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gama",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gamdias",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/garabatos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/garmin",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/general-electric",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/general-tire",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/genius",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gigabyte",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/girbaud",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gopro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/google",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/goorin-bros",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/griffin",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/gym-shop-colombia",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/hp",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/haceb",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/hamilton-beach",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/happy-bear",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/harleydavidson",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/hawkers",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/herschel",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/hobbys-y-juguetes",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/hogar-y-moda",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/holstein",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/home--cook",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/home-elements",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/home-sentry",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/honeywell",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/honor",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/hot-wheels",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/house-of-samsonite",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/huawei",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/huggies",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/hurley",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/iceberg",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/importadoras-asociadas",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/indurama",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/industrias-cruz",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/infanti",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/infinity",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/infinix",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/inizio",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ink-color",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/inkanta",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/innovar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/intex",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/invicta",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/irwin",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/isopure",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/jbl",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/jacques-lemans",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/janus",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/jubilo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/juvenia",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kalley",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kamex",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kanu",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kappa",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kappa-moto",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/karcher",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kaspersky",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/keepermate",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kenneth-cole",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kia",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kia-plaza",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kikkerland",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kingston",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kipling",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kitchenaid",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/koaj",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kodak",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kreg-tools",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/krono",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kryolan",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/kryptonite",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/loh-medical",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/la-colonial",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/la-pequena-galeria",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lamy",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lanix",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lansinoh",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lego",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lenovo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lentesplus",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/leonisa",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/libreria-lerner",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/libreria-de-la-u",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lifesmart",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/linksys",
+      "visited": true
+    },
+    {
+      "url": "https://www.mercadolibre.com.co/ofertas/locatel",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/logitech",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/loix",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/lugano",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/msi",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mabe",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/makita",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mansion",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/maquitodo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/marcali",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/marfil",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mark-maddox",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/marketing-personal",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/marshall",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/marvel",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mascotas-bichos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/masherland",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mass-music",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/massy-motors",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/massy-motors-medellin",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/matisses",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mattel",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/maxliner",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/medellin-properties-inmobiliar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/megaplex",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/megashop-tv",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/meguiars",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/menabo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mercado-envios",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mia-toro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mic",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/microsoft",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/midea",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/miscelandia",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/molti",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/monkey-market",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/monopolio-inmobiliario",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/monroe",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/morph",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/motorola-telefonia-fija",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mountroyal",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/movado",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mr-boho",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/muebles-dummi",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/muebles-online",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/multitech",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/mundimotos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/muscletech",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nomad",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nzxt",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/national-geographic",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/neffos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/new-balance",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/new-balance",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/newlab-nutrition",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nightsun",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ninebot",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nokia",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/north-bayou",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/northweek",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nuby",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nuk",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nutristar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/nvidia",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/oakley",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/oboticario",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ocico-pet-care",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/offcorss",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/omnitural",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/on-board",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/onguard",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/oportunidades",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/optimum-nutrition",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ortizo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ortopedicos-futuro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/oster",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pamo",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/panini",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pedigree",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/peugeot",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/philips",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pigeon",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pina-court",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pincaso",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pirelli",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/playpro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/playstation",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/plr",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/polar",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/popsockets",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/provipets",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/puppis",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pylones",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/pyrex-world-kitchen",
+      "visited": true
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/_OfficialStoreId_631",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/qyq",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/remington",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/racketball",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/rayban",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/redragon",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/rejiplas",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/relax-home",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/rem",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/renud-korean-cosmetics",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/republic-of-gamers",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/revel-audio",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/rimax",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ringke",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/roadmaster",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/rose-pistol",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/subaru",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/samsung",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sandisk",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sanautos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/saving-the-amazon",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/schaffhausen",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/schneider-electric",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/seagate",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/select",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sencor",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sennheiser",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sequoia-speed",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/seventeen-st",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/siefken",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sika",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/singer",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/skil",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/skullcandy",
+      "visited": true
+    },
+    {
+      "url": "https://listado.mercadolibre.com.co/_OfficialStoreId_985",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sleeping-pet-by-comodisimos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/smartwool",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/soelco",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sony",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/south-pole",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sparco",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sport-fitness",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/stance",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/stanford",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/stanley",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/startec",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/steelseries",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/stivali",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/stuhrling",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/superfuds",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/supermercado-naturista",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/sweiss",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/swissbrand",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tplink",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tactic-sports",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tania",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/targus",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tarrao",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tasco",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/technomarine",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/technosoportes",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/technosport",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tecnical-music",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tejidos-lav",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/teknopolis",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tennis",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tessor",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/thermos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/thieye",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/thm",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/thule",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/thundra",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/time-force",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tito-bohm",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tommee-tippee",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tommy-hilfiger",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tool-store",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/top-1",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/toshiba",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/totto",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/troika",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/trust",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tucarro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tubici-bike-shop",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tuning-box",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/tv-novedades-tv",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/ultimate-ears",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/umbro",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/under-armour",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/universal-de-tornillos",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/uyustools",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/vento",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/viceroy",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/victorinox",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/vida-util",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/viewsonic",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/virtualllantas",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/volkswagen",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/w7",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wd",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wwf-colombia",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wacom",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wagner",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wahl-home",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/warn",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/weathertech",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wefone",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wenger",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/westinghouse",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/whirlpool",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/whiskas",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/wintermat",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/xerox",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/xpg-adata",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/xbox",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/xiaomi",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/xkim",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/yale",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/yamaha",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/yamaha-musical",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/zotac",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/zavatty",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/zebra",
+      "visited": true
+    },
+    {
+      "url": "https://tienda.mercadolibre.com.co/zippo",
+      "visited": true
+    }
+  ]
+}

@@ -1,0 +1,2056 @@
+{
+  "categoriesURL": [
+    {
+      "name": "Acc. para Motos y Cuatrimotos",
+      "url": "https://motos.mercadolibre.com.co/acc-cuatrimotos/",
+      "visited": false,
+      "totalItems": 193248
+    },
+    {
+      "name": "Acc. y Repuestos Náuticos",
+      "url": "https://vehiculos.mercadolibre.com.co/acc-repuestos-nauticos/",
+      "visited": false,
+      "totalItems": 5048
+    },
+    {
+      "name": "Acc. y Repuestos para Camiones",
+      "url": "https://vehiculos.mercadolibre.com.co/acc-repuestos-camiones/",
+      "visited": false,
+      "totalItems": 696
+    },
+    {
+      "name": "Accesorios para Carros",
+      "url": "https://carros.mercadolibre.com.co/accesorios/",
+      "visited": false,
+      "totalItems": 468041
+    },
+    {
+      "name": "Audio para Vehículos",
+      "url": "https://carros.mercadolibre.com.co/audio-vehiculos/",
+      "visited": false,
+      "totalItems": 59918
+    },
+    {
+      "name": "GNV",
+      "url": "https://vehiculos.mercadolibre.com.co/gnv/",
+      "visited": false,
+      "totalItems": 10
+    },
+    {
+      "name": "Herramientas para Vehículos",
+      "url": "https://vehiculos.mercadolibre.com.co/herramientas/",
+      "visited": false,
+      "totalItems": 74820
+    },
+    {
+      "name": "Limpieza de Vehículos",
+      "url": "https://vehiculos.mercadolibre.com.co/limpieza/",
+      "visited": false,
+      "totalItems": 743
+    },
+    {
+      "name": "Llantas",
+      "url": "https://vehiculos.mercadolibre.com.co/llantas/",
+      "visited": false,
+      "totalItems": 15879
+    },
+    {
+      "name": "Navegadores GPS para Vehículos",
+      "url": "https://vehiculos.mercadolibre.com.co/navegadores-gps/",
+      "visited": false,
+      "totalItems": 3558
+    },
+    {
+      "name": "Repuestos Carros y Camionetas",
+      "url": "https://carros.mercadolibre.com.co/repuestos/",
+      "visited": false,
+      "totalItems": 631145
+    },
+    {
+      "name": "Repuestos de Maquinaria Pesada",
+      "url": "https://vehiculos.mercadolibre.com.co/repuestos-maquinaria-pesada/",
+      "visited": false,
+      "totalItems": 333
+    },
+    {
+      "name": "Repuestos para Motos",
+      "url": "https://motos.mercadolibre.com.co/repuestos/",
+      "visited": false,
+      "totalItems": 122720
+    },
+    {
+      "name": "Rines",
+      "url": "https://vehiculos.mercadolibre.com.co/rines/",
+      "visited": false,
+      "totalItems": 10728
+    },
+    {
+      "name": "Seguridad Vehicular",
+      "url": "https://vehiculos.mercadolibre.com.co/seguridad-vehicular/",
+      "visited": false,
+      "totalItems": 40598
+    },
+    {
+      "name": "Service Programado",
+      "url": "https://vehiculos.mercadolibre.com.co/service-programado/",
+      "visited": false,
+      "totalItems": 143
+    },
+    {
+      "name": "Tuning y Performance",
+      "url": "https://vehiculos.mercadolibre.com.co/tuning-performance/",
+      "visited": false,
+      "totalItems": 86241
+    },
+    {
+      "name": "Otros",
+      "url": "https://carros.mercadolibre.com.co/otros/",
+      "visited": false,
+      "totalItems": 55777
+    },
+    {
+      "name": "Bebidas",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/alimentos-bebidas/bebidas/",
+      "visited": false,
+      "totalItems": 19270
+    },
+    {
+      "name": "Comestibles",
+      "url": "https://listado.mercadolibre.com.co/comestibles/",
+      "visited": false,
+      "totalItems": 29157
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/alimentos-bebidas/otros/",
+      "visited": false,
+      "totalItems": 14806
+    },
+    {
+      "name": "Aves",
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/aves/",
+      "visited": false,
+      "totalItems": 10743
+    },
+    {
+      "name": "Caballos",
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/caballos/",
+      "visited": false,
+      "totalItems": 7807
+    },
+    {
+      "name": "Conejos",
+      "url": "https://listado.mercadolibre.com.co/conejos/",
+      "visited": false,
+      "totalItems": 53
+    },
+    {
+      "name": "Gatos",
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/gatos/",
+      "visited": false,
+      "totalItems": 58190
+    },
+    {
+      "name": "Insectos",
+      "url": "https://listado.mercadolibre.com.co/insectos/",
+      "visited": false,
+      "totalItems": 31
+    },
+    {
+      "name": "Peces",
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/peces/",
+      "visited": false,
+      "totalItems": 32610
+    },
+    {
+      "name": "Perros",
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/perros/",
+      "visited": false,
+      "totalItems": 328679
+    },
+    {
+      "name": "Reptiles y Anfibios",
+      "url": "https://listado.mercadolibre.com.co/reptiles-anfibios/",
+      "visited": false,
+      "totalItems": 50
+    },
+    {
+      "name": "Roedores",
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/roedores/",
+      "visited": false,
+      "totalItems": 3118
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/animales-mascotas/otros/",
+      "visited": false,
+      "totalItems": 31017
+    },
+    {
+      "name": "Artesanías",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/artesanias/",
+      "visited": false,
+      "totalItems": 31344
+    },
+    {
+      "name": "Billetes y Monedas",
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-billetes-monedas/",
+      "visited": false,
+      "totalItems": 22085
+    },
+    {
+      "name": "Colecciones Diversas",
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-diversas/",
+      "visited": false,
+      "totalItems": 25205
+    },
+    {
+      "name": "Comics",
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-comics/",
+      "visited": false,
+      "totalItems": 11569
+    },
+    {
+      "name": "Filatelia",
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-filatelia/",
+      "visited": false,
+      "totalItems": 3794
+    },
+    {
+      "name": "Modelismo",
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-modelismo/",
+      "visited": false,
+      "totalItems": 75451
+    },
+    {
+      "name": "Posters",
+      "url": "https://coleccionables.mercadolibre.com.co/antiguedades-colecciones-posters/",
+      "visited": false,
+      "totalItems": 3024
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/otros/",
+      "visited": false,
+      "totalItems": 16392
+    },
+    {
+      "name": "Colgante de Pared",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/arte/colgante-pared/",
+      "visited": false,
+      "totalItems": 251
+    },
+    {
+      "name": "Mercería",
+      "url": "https://listado.mercadolibre.com.co/merceria/",
+      "visited": false,
+      "totalItems": 8549
+    },
+    {
+      "name": "Papelería",
+      "url": "https://listado.mercadolibre.com.co/papeleria/",
+      "visited": false,
+      "totalItems": 380475
+    },
+    {
+      "name": "Pinturas",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/arte/pinturas/",
+      "visited": false,
+      "totalItems": 20188
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/arte-antiguedades/arte/otros/",
+      "visited": false,
+      "totalItems": 5517
+    },
+    {
+      "name": "Artículos de Bebés para Baños",
+      "url": "https://listado.mercadolibre.com.co/bebes/articulos-banos/",
+      "visited": false,
+      "totalItems": 15952
+    },
+    {
+      "name": "Artículos de Maternidad",
+      "url": "https://listado.mercadolibre.com.co/bebes/articulos-maternidad/",
+      "visited": false,
+      "totalItems": 32609
+    },
+    {
+      "name": "Caminadores y Correpasillos",
+      "url": "https://listado.mercadolibre.com.co/bebes/caminadores-correpasillos/",
+      "visited": false,
+      "totalItems": 9869
+    },
+    {
+      "name": "Chupetes y Mordedores",
+      "url": "https://listado.mercadolibre.com.co/bebes/chupetes-mordedores/",
+      "visited": false,
+      "totalItems": 11638
+    },
+    {
+      "name": "Comida para Bebés",
+      "url": "https://listado.mercadolibre.com.co/bebes/comida/",
+      "visited": false,
+      "totalItems": 2416
+    },
+    {
+      "name": "Corrales para Bebé",
+      "url": "https://listado.mercadolibre.com.co/bebes/corrales/",
+      "visited": false,
+      "totalItems": 2218
+    },
+    {
+      "name": "Cuarto del Bebé",
+      "url": "https://listado.mercadolibre.com.co/bebes/cuarto/",
+      "visited": false,
+      "totalItems": 60712
+    },
+    {
+      "name": "Higiene y Cuidado del Bebé",
+      "url": "https://listado.mercadolibre.com.co/bebes/higiene-cuidado/",
+      "visited": false,
+      "totalItems": 45034
+    },
+    {
+      "name": "Juegos y Juguetes para Bebés",
+      "url": "https://listado.mercadolibre.com.co/bebes/juegos-juguetes/",
+      "visited": false,
+      "totalItems": 243472
+    },
+    {
+      "name": "Lactancia y Alimentación",
+      "url": "https://listado.mercadolibre.com.co/bebes/lactancia-alimentacion/",
+      "visited": false,
+      "totalItems": 84207
+    },
+    {
+      "name": "Paseo del Bebé",
+      "url": "https://listado.mercadolibre.com.co/bebes/paseo/",
+      "visited": false,
+      "totalItems": 65554
+    },
+    {
+      "name": "Ropa para Bebés",
+      "url": "https://listado.mercadolibre.com.co/bebes/ropa/",
+      "visited": false,
+      "totalItems": 61906
+    },
+    {
+      "name": "Salud del Bebé",
+      "url": "https://listado.mercadolibre.com.co/bebes/salud/",
+      "visited": false,
+      "totalItems": 2197
+    },
+    {
+      "name": "Seguridad para Bebés",
+      "url": "https://listado.mercadolibre.com.co/bebes/seguridad/",
+      "visited": false,
+      "totalItems": 32845
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/bebes/otros/",
+      "visited": false,
+      "totalItems": 20745
+    },
+    {
+      "name": "Artículos de Peluquería",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/articulos-peluqueria/",
+      "visited": false,
+      "totalItems": 128229
+    },
+    {
+      "name": "Barbería",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/barberia/",
+      "visited": false,
+      "totalItems": 53161
+    },
+    {
+      "name": "Cuidado de la Piel",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/cuidado-piel/",
+      "visited": false,
+      "totalItems": 467596
+    },
+    {
+      "name": "Cuidado del Cabello",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/cuidado-cabello/",
+      "visited": false,
+      "totalItems": 193204
+    },
+    {
+      "name": "Cuidado del Cuerpo",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/cuidado-cuerpo/",
+      "visited": false,
+      "totalItems": 50730
+    },
+    {
+      "name": "Depilación",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/depilacion/",
+      "visited": false,
+      "totalItems": 21436
+    },
+    {
+      "name": "Electrodomésticos de Belleza",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/electrodomesticos-belleza/",
+      "visited": false,
+      "totalItems": 127400
+    },
+    {
+      "name": "Farmacia",
+      "url": "https://listado.mercadolibre.com.co/farmacia/",
+      "visited": false,
+      "totalItems": 2290
+    },
+    {
+      "name": "Higiene Personal",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/higiene-personal/",
+      "visited": false,
+      "totalItems": 95654
+    },
+    {
+      "name": "Manicuría y Pedicuría",
+      "url": "https://listado.mercadolibre.com.co/manicuria-pedicuria/",
+      "visited": false,
+      "totalItems": 84339
+    },
+    {
+      "name": "Maquillajes",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/maquillajes/",
+      "visited": false,
+      "totalItems": 366085
+    },
+    {
+      "name": "Perfumes y Fragancias",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/perfumes/",
+      "visited": false,
+      "totalItems": 194852
+    },
+    {
+      "name": "Splash Corporal",
+      "url": "https://listado.mercadolibre.com.co/splash-corporal/",
+      "visited": false,
+      "totalItems": 3903
+    },
+    {
+      "name": "Tratamientos de Belleza",
+      "url": "https://listado.mercadolibre.com.co/tratamientos-belleza/",
+      "visited": false,
+      "totalItems": 3503
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/salud-belleza/otros/",
+      "visited": false,
+      "totalItems": 82851
+    },
+    {
+      "name": "Conciertos",
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/conciertos/",
+      "visited": false,
+      "totalItems": 515
+    },
+    {
+      "name": "Eventos Deportivos",
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/eventos-deportivos/",
+      "visited": false,
+      "totalItems": 205
+    },
+    {
+      "name": "Eventos Finalizados",
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/eventos-finalizados/",
+      "visited": false,
+      "totalItems": 56
+    },
+    {
+      "name": "Otras Boletas",
+      "url": "https://listado.mercadolibre.com.co/boletas-espectaculos/otras/",
+      "visited": false,
+      "totalItems": 711
+    },
+    {
+      "name": "Accesorios para Cámaras",
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/accesorios/",
+      "visited": false,
+      "totalItems": 169836
+    },
+    {
+      "name": "Álbumes y Portarretratos",
+      "url": "https://listado.mercadolibre.com.co/albumes-portarretratos/",
+      "visited": false,
+      "totalItems": 3002
+    },
+    {
+      "name": "Cámaras",
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/camaras/",
+      "visited": false,
+      "totalItems": 35613
+    },
+    {
+      "name": "Cámaras de Video y Deportivas",
+      "url": "https://listado.mercadolibre.com.co/camaras-video-deportivas/",
+      "visited": false,
+      "totalItems": 16295
+    },
+    {
+      "name": "Instrumentos Ópticos",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-opticos/",
+      "visited": false,
+      "totalItems": 22528
+    },
+    {
+      "name": "Repuestos para Cámaras",
+      "url": "https://listado.mercadolibre.com.co/repuestos-camaras/",
+      "visited": false,
+      "totalItems": 852
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/camaras-accesorios/otros/",
+      "visited": false,
+      "totalItems": 3161
+    },
+    {
+      "name": "Accesorios para Celulares",
+      "url": "https://celulares.mercadolibre.com.co/accesorios/",
+      "visited": false,
+      "totalItems": 732113
+    },
+    {
+      "name": "Celulares y Smartphones",
+      "url": "https://celulares.mercadolibre.com.co/",
+      "visited": false,
+      "totalItems": 50359
+    },
+    {
+      "name": "Memorias para Celulares",
+      "url": "https://celulares.mercadolibre.com.co/memorias-celulares/",
+      "visited": false,
+      "totalItems": 13707
+    },
+    {
+      "name": "Radios y Handies",
+      "url": "https://telefonos.mercadolibre.com.co/radios-handies/",
+      "visited": false,
+      "totalItems": 15876
+    },
+    {
+      "name": "Smartwatch",
+      "url": "https://celulares.mercadolibre.com.co/smartwatch/",
+      "visited": false,
+      "totalItems": 50547
+    },
+    {
+      "name": "Tarificadores y Cabinas",
+      "url": "https://telefonos.mercadolibre.com.co/tarificadores-cabinas/",
+      "visited": false,
+      "totalItems": 2780
+    },
+    {
+      "name": "Telefonía Fija",
+      "url": "https://telefonos.mercadolibre.com.co/telefonia-fija/",
+      "visited": false,
+      "totalItems": 2161
+    },
+    {
+      "name": "Telefonía IP",
+      "url": "https://telefonos.mercadolibre.com.co/telefonia-ip/",
+      "visited": false,
+      "totalItems": 3736
+    },
+    {
+      "name": "Teléfonos Inalámbricos",
+      "url": "https://telefonos.mercadolibre.com.co/inalambricos/",
+      "visited": false,
+      "totalItems": 3925
+    },
+    {
+      "name": "Otros",
+      "url": "https://celulares.mercadolibre.com.co/otros/",
+      "visited": false,
+      "totalItems": 3970
+    },
+    {
+      "name": "Accesorios para Portátiles",
+      "url": "https://computacion.mercadolibre.com.co/accesorios-portatiles/",
+      "visited": false,
+      "totalItems": 176039
+    },
+    {
+      "name": "All In One",
+      "url": "https://computacion.mercadolibre.com.co/all-in-one/",
+      "visited": false,
+      "totalItems": 1725
+    },
+    {
+      "name": "Apple",
+      "url": "https://computacion.mercadolibre.com.co/apple/",
+      "visited": false,
+      "totalItems": 15903
+    },
+    {
+      "name": "CDs y DVDs Vírgenes",
+      "url": "https://computacion.mercadolibre.com.co/cds-dvd-virgenes/cds-dvds-virgenes/",
+      "visited": false,
+      "totalItems": 4401
+    },
+    {
+      "name": "Computadores",
+      "url": "https://computacion.mercadolibre.com.co/computadores/",
+      "visited": false,
+      "totalItems": 13328
+    },
+    {
+      "name": "Discos Duros y Externos",
+      "url": "https://computacion.mercadolibre.com.co/discos-duros-y-externos/",
+      "visited": false,
+      "totalItems": 25948
+    },
+    {
+      "name": "Fuentes, UPS y Estabilizadores",
+      "url": "https://computacion.mercadolibre.com.co/fuentes-ups-estabilizadores/",
+      "visited": false,
+      "totalItems": 12534
+    },
+    {
+      "name": "Impresión",
+      "url": "https://computacion.mercadolibre.com.co/impresion/",
+      "visited": false,
+      "totalItems": 59156
+    },
+    {
+      "name": "Memorias Portátiles USB",
+      "url": "https://computacion.mercadolibre.com.co/memorias-portatiles-usb/",
+      "visited": false,
+      "totalItems": 11922
+    },
+    {
+      "name": "Memorias RAM",
+      "url": "https://computacion.mercadolibre.com.co/memorias-ram/",
+      "visited": false,
+      "totalItems": 27632
+    },
+    {
+      "name": "Mini PCs",
+      "url": "https://computacion.mercadolibre.com.co/mini-pcs/",
+      "visited": false,
+      "totalItems": 960
+    },
+    {
+      "name": "Monitores",
+      "url": "https://computacion.mercadolibre.com.co/monitores/",
+      "visited": false,
+      "totalItems": 13523
+    },
+    {
+      "name": "Palms, Agendas y Accesorios",
+      "url": "https://computacion.mercadolibre.com.co/palms-agendas-accesorios/",
+      "visited": false,
+      "totalItems": 767
+    },
+    {
+      "name": "Partes y Componentes de PC",
+      "url": "https://computacion.mercadolibre.com.co/partes-componentes-pc/",
+      "visited": false,
+      "totalItems": 29474
+    },
+    {
+      "name": "Periféricos y Accesorios de PC",
+      "url": "https://computacion.mercadolibre.com.co/perifericos-accesorios-pc/",
+      "visited": false,
+      "totalItems": 175892
+    },
+    {
+      "name": "Portátiles",
+      "url": "https://computacion.mercadolibre.com.co/portatiles/",
+      "visited": false,
+      "totalItems": 27049
+    },
+    {
+      "name": "Quemadores de DVDs y CDs",
+      "url": "https://computacion.mercadolibre.com.co/quemadores-dvds-cds/",
+      "visited": false,
+      "totalItems": 4150
+    },
+    {
+      "name": "Redes y Redes Inalámbricas",
+      "url": "https://computacion.mercadolibre.com.co/redes-inalambricas/",
+      "visited": false,
+      "totalItems": 61867
+    },
+    {
+      "name": "Software",
+      "url": "https://computacion.mercadolibre.com.co/software/",
+      "visited": false,
+      "totalItems": 27526
+    },
+    {
+      "name": "Tablets y Accesorios",
+      "url": "https://computacion.mercadolibre.com.co/tablets-accesorios/",
+      "visited": false,
+      "totalItems": 89523
+    },
+    {
+      "name": "Tarjetas de Video y Captura",
+      "url": "https://computacion.mercadolibre.com.co/tarjetas-video-captura/",
+      "visited": false,
+      "totalItems": 4896
+    },
+    {
+      "name": "Otros",
+      "url": "https://computacion.mercadolibre.com.co/otros/",
+      "visited": false,
+      "totalItems": 16266
+    },
+    {
+      "name": "Accesorios para Consolas",
+      "url": "https://videojuegos.mercadolibre.com.co/accesorios-consolas/",
+      "visited": false,
+      "totalItems": 170222
+    },
+    {
+      "name": "Consolas",
+      "url": "https://videojuegos.mercadolibre.com.co/consolas/",
+      "visited": false,
+      "totalItems": 23862
+    },
+    {
+      "name": "Flippers y Arcade",
+      "url": "https://videojuegos.mercadolibre.com.co/flippers-arcade/",
+      "visited": false,
+      "totalItems": 255
+    },
+    {
+      "name": "Otros",
+      "url": "https://videojuegos.mercadolibre.com.co/otros/",
+      "visited": false,
+      "totalItems": 35
+    },
+    {
+      "name": "Repuestos para Consolas",
+      "url": "https://videojuegos.mercadolibre.com.co/repuestos-consolas/",
+      "visited": false,
+      "totalItems": 1367
+    },
+    {
+      "name": "Videojuegos",
+      "url": "https://videojuegos.mercadolibre.com.co/videojuegos/",
+      "visited": false,
+      "totalItems": 170329
+    },
+    {
+      "name": "Aerobics y Fitness",
+      "url": "https://deportes.mercadolibre.com.co/aerobics-fitness/",
+      "visited": false,
+      "totalItems": 411914
+    },
+    {
+      "name": "Baloncesto",
+      "url": "https://deportes.mercadolibre.com.co/baloncesto/",
+      "visited": false,
+      "totalItems": 6598
+    },
+    {
+      "name": "Bicicletas y Ciclismo",
+      "url": "https://deportes.mercadolibre.com.co/bicicletas-ciclismo/",
+      "visited": false,
+      "totalItems": 333569
+    },
+    {
+      "name": "Boxeo y Artes Marciales",
+      "url": "https://deportes.mercadolibre.com.co/boxeo-artes-marciales/",
+      "visited": false,
+      "totalItems": 24681
+    },
+    {
+      "name": "Buceo",
+      "url": "https://deportes.mercadolibre.com.co/buceo/",
+      "visited": false,
+      "totalItems": 40027
+    },
+    {
+      "name": "Camping, Caza y Pesca",
+      "url": "https://deportes.mercadolibre.com.co/camping-caza-pesca/",
+      "visited": false,
+      "totalItems": 326823
+    },
+    {
+      "name": "Deportes Extremos",
+      "url": "https://deportes.mercadolibre.com.co/extremos/",
+      "visited": false,
+      "totalItems": 56776
+    },
+    {
+      "name": "Equipos y Máquinas de Gimnasia",
+      "url": "https://deportes.mercadolibre.com.co/equipos-maquinas-gimnasia/",
+      "visited": false,
+      "totalItems": 80219
+    },
+    {
+      "name": "Fútbol",
+      "url": "https://deportes.mercadolibre.com.co/futbol/",
+      "visited": false,
+      "totalItems": 80365
+    },
+    {
+      "name": "Golf",
+      "url": "https://deportes.mercadolibre.com.co/golf/",
+      "visited": false,
+      "totalItems": 54169
+    },
+    {
+      "name": "Natación",
+      "url": "https://deportes.mercadolibre.com.co/natacion/",
+      "visited": false,
+      "totalItems": 9125
+    },
+    {
+      "name": "Paintball y Airsoft",
+      "url": "https://deportes.mercadolibre.com.co/paintball-airsoft/",
+      "visited": false,
+      "totalItems": 42069
+    },
+    {
+      "name": "Patines, Scooters y Skates",
+      "url": "https://deportes.mercadolibre.com.co/patines-scooters-skates/",
+      "visited": false,
+      "totalItems": 75179
+    },
+    {
+      "name": "Ropa Deportiva",
+      "url": "https://deportes.mercadolibre.com.co/ropa-deportiva/",
+      "visited": false,
+      "totalItems": 43797
+    },
+    {
+      "name": "Tenis y Squash",
+      "url": "https://deportes.mercadolibre.com.co/tenis-squash/",
+      "visited": false,
+      "totalItems": 17082
+    },
+    {
+      "name": "Tiro Deportivo",
+      "url": "https://deportes.mercadolibre.com.co/tiro-deportivo/",
+      "visited": false,
+      "totalItems": 29
+    },
+    {
+      "name": "Yoga y Pilates",
+      "url": "https://listado.mercadolibre.com.co/yoga-pilates/",
+      "visited": false,
+      "totalItems": 2012
+    },
+    {
+      "name": "Otros",
+      "url": "https://deportes.mercadolibre.com.co/otros/",
+      "visited": false,
+      "totalItems": 48372
+    },
+    {
+      "name": "Artefactos de Cuidado Personal",
+      "url": "https://listado.mercadolibre.com.co/artefactos-cuidado-personal/",
+      "visited": false,
+      "totalItems": 10
+    },
+    {
+      "name": "Climatización",
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/climatizacion/",
+      "visited": false,
+      "totalItems": 39483
+    },
+    {
+      "name": "Cocción",
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/coccion/",
+      "visited": false,
+      "totalItems": 19874
+    },
+    {
+      "name": "Dispensadores y Purificadores",
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/dispensadores-purificadores/",
+      "visited": false,
+      "totalItems": 53357
+    },
+    {
+      "name": "Lavado",
+      "url": "https://listado.mercadolibre.com.co/lavado/",
+      "visited": false,
+      "totalItems": 7933
+    },
+    {
+      "name": "Pequeños Electrodomésticos",
+      "url": "https://listado.mercadolibre.com.co/pequenos-electrodomesticos/",
+      "visited": false,
+      "totalItems": 175727
+    },
+    {
+      "name": "Refrigeración",
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/refrigeracion/",
+      "visited": false,
+      "totalItems": 10340
+    },
+    {
+      "name": "Repuestos y Accesorios",
+      "url": "https://listado.mercadolibre.com.co/repuestos-accesorios/",
+      "visited": false,
+      "totalItems": 20173
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/electrodomesticos/otros/",
+      "visited": false,
+      "totalItems": 8952
+    },
+    {
+      "name": "Accesorios Audio y Video",
+      "url": "https://electronica.mercadolibre.com.co/accesorios-audio-video/",
+      "visited": false,
+      "totalItems": 624909
+    },
+    {
+      "name": "Audio para el Hogar",
+      "url": "https://electronica.mercadolibre.com.co/audio-hogar/",
+      "visited": false,
+      "totalItems": 31435
+    },
+    {
+      "name": "Audio Portátil",
+      "url": "https://electronica.mercadolibre.com.co/audio-portatil/",
+      "visited": false,
+      "totalItems": 106350
+    },
+    {
+      "name": "Audio Profesional y DJs",
+      "url": "https://electronica.mercadolibre.com.co/audio-profesional-djs/",
+      "visited": false,
+      "totalItems": 86906
+    },
+    {
+      "name": "Componentes Electrónicos",
+      "url": "https://electronica.mercadolibre.com.co/componentes-electronicos/",
+      "visited": false,
+      "totalItems": 222331
+    },
+    {
+      "name": "Drones y Accesorios",
+      "url": "https://electronica.mercadolibre.com.co/drones-accesorios/",
+      "visited": false,
+      "totalItems": 69583
+    },
+    {
+      "name": "DVD",
+      "url": "https://electronica.mercadolibre.com.co/dvd/",
+      "visited": false,
+      "totalItems": 7932
+    },
+    {
+      "name": "Equipos de Seguridad",
+      "url": "https://electronica.mercadolibre.com.co/equipos-seguridad/",
+      "visited": false,
+      "totalItems": 169402
+    },
+    {
+      "name": "GPS",
+      "url": "https://electronica.mercadolibre.com.co/gps/",
+      "visited": false,
+      "totalItems": 18115
+    },
+    {
+      "name": "iPod",
+      "url": "https://electronica.mercadolibre.com.co/ipod/",
+      "visited": false,
+      "totalItems": 9116
+    },
+    {
+      "name": "Lectores de Libros Digitales",
+      "url": "https://electronica.mercadolibre.com.co/lectores-libros-digitales/",
+      "visited": false,
+      "totalItems": 8145
+    },
+    {
+      "name": "Palms, Agendas y Accesorios",
+      "url": "https://electronica.mercadolibre.com.co/palms-agendas/",
+      "visited": false,
+      "totalItems": 567
+    },
+    {
+      "name": "Pilas, Cargadores y Baterías",
+      "url": "https://electronica.mercadolibre.com.co/pilas-cargadores-baterias/",
+      "visited": false,
+      "totalItems": 44514
+    },
+    {
+      "name": "Reproductores Blu-ray",
+      "url": "https://electronica.mercadolibre.com.co/reproductores-blu-ray/",
+      "visited": false,
+      "totalItems": 2850
+    },
+    {
+      "name": "Reproductores MP3 y MP4",
+      "url": "https://electronica.mercadolibre.com.co/reproductores-mp3-mp4/",
+      "visited": false,
+      "totalItems": 11472
+    },
+    {
+      "name": "Televisores",
+      "url": "https://electronica.mercadolibre.com.co/televisores/",
+      "visited": false,
+      "totalItems": 18623
+    },
+    {
+      "name": "Video Beams y Pantallas",
+      "url": "https://electronica.mercadolibre.com.co/proyectores-pantallas/",
+      "visited": false,
+      "totalItems": 25610
+    },
+    {
+      "name": "Otros",
+      "url": "https://electronica.mercadolibre.com.co/otros/",
+      "visited": false,
+      "totalItems": 51514
+    },
+    {
+      "name": "Aberturas",
+      "url": "https://listado.mercadolibre.com.co/aberturas/",
+      "visited": false,
+      "totalItems": 9310
+    },
+    {
+      "name": "Baños y Sanitarios",
+      "url": "https://listado.mercadolibre.com.co/banos-sanitarios/",
+      "visited": false,
+      "totalItems": 4825
+    },
+    {
+      "name": "Construcción",
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/construccion/",
+      "visited": false,
+      "totalItems": 26086
+    },
+    {
+      "name": "Electricidad",
+      "url": "https://listado.mercadolibre.com.co/electricidad/",
+      "visited": false,
+      "totalItems": 7046
+    },
+    {
+      "name": "Herramientas",
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/herramientas/",
+      "visited": false,
+      "totalItems": 667733
+    },
+    {
+      "name": "Mobiliario para Cocinas",
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/mobiliario-cocinas/",
+      "visited": false,
+      "totalItems": 37115
+    },
+    {
+      "name": "Pinturas",
+      "url": "https://listado.mercadolibre.com.co/pinturas/",
+      "visited": false,
+      "totalItems": 5479
+    },
+    {
+      "name": "Pisos y Recubrimientos",
+      "url": "https://listado.mercadolibre.com.co/pisos-recubrimientos/",
+      "visited": false,
+      "totalItems": 13224
+    },
+    {
+      "name": "Plomería",
+      "url": "https://listado.mercadolibre.com.co/plomeria/",
+      "visited": false,
+      "totalItems": 102
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/herramientas-construccion/otros/",
+      "visited": false,
+      "totalItems": 40542
+    },
+    {
+      "name": "Adornos y Decoración del Hogar",
+      "url": "https://listado.mercadolibre.com.co/adornos-decoracion-del-hogar/",
+      "visited": false,
+      "totalItems": 546525
+    },
+    {
+      "name": "Alcoba",
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/alcoba/",
+      "visited": false,
+      "totalItems": 238218
+    },
+    {
+      "name": "Baños",
+      "url": "https://listado.mercadolibre.com.co/banos/",
+      "visited": false,
+      "totalItems": 87129
+    },
+    {
+      "name": "Cocina",
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/cocina/",
+      "visited": false,
+      "totalItems": 1225079
+    },
+    {
+      "name": "Colchones y Sommiers",
+      "url": "https://listado.mercadolibre.com.co/colchones-sommiers/",
+      "visited": false,
+      "totalItems": 8
+    },
+    {
+      "name": "Comedor",
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/comedor/",
+      "visited": false,
+      "totalItems": 19048
+    },
+    {
+      "name": "Cortinas y Accesorios",
+      "url": "https://listado.mercadolibre.com.co/cortinas-accesorios/",
+      "visited": false,
+      "totalItems": 37814
+    },
+    {
+      "name": "Cuidado del Hogar y Lavandería",
+      "url": "https://listado.mercadolibre.com.co/cuidado-del-hogar-lavanderia/",
+      "visited": false,
+      "totalItems": 40606
+    },
+    {
+      "name": "Iluminación para el Hogar",
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/iluminacion-hogar/",
+      "visited": false,
+      "totalItems": 188729
+    },
+    {
+      "name": "Jardines y Exteriores",
+      "url": "https://listado.mercadolibre.com.co/jardines-exteriores/",
+      "visited": false,
+      "totalItems": 161401
+    },
+    {
+      "name": "Lavadero",
+      "url": "https://listado.mercadolibre.com.co/lavadero/",
+      "visited": false,
+      "totalItems": 7048
+    },
+    {
+      "name": "Muebles de Escritorio",
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/muebles-escritorio/",
+      "visited": false,
+      "totalItems": 41691
+    },
+    {
+      "name": "Muebles para el Hogar",
+      "url": "https://listado.mercadolibre.com.co/muebles-hogar/",
+      "visited": false,
+      "totalItems": 18848
+    },
+    {
+      "name": "Organización para el Hogar",
+      "url": "https://listado.mercadolibre.com.co/organizacion-hogar/",
+      "visited": false,
+      "totalItems": 13
+    },
+    {
+      "name": "Salas",
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/salas/",
+      "visited": false,
+      "totalItems": 61928
+    },
+    {
+      "name": "Seguridad para el Hogar",
+      "url": "https://listado.mercadolibre.com.co/seguridad-hogar/",
+      "visited": false,
+      "totalItems": 32756
+    },
+    {
+      "name": "Textiles de Hogar y Decoración",
+      "url": "https://listado.mercadolibre.com.co/textiles-hogar-decoracion/",
+      "visited": false,
+      "totalItems": 65425
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/hogar-muebles/otros/",
+      "visited": false,
+      "totalItems": 88282
+    },
+    {
+      "name": "Embalajes",
+      "url": "https://listado.mercadolibre.com.co/embalajes/",
+      "visited": false,
+      "totalItems": 4632
+    },
+    {
+      "name": "Equipamiento Comercial",
+      "url": "https://listado.mercadolibre.com.co/equipamiento-comercial/",
+      "visited": false,
+      "totalItems": 356
+    },
+    {
+      "name": "Equipamiento para Oficinas",
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/equipamiento/",
+      "visited": false,
+      "totalItems": 145691
+    },
+    {
+      "name": "Industria Gastronómica",
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/industria-gastronomica/",
+      "visited": false,
+      "totalItems": 15174
+    },
+    {
+      "name": "Industria Textil",
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/industria-textil/",
+      "visited": false,
+      "totalItems": 52390
+    },
+    {
+      "name": "Máquinas para Industrias",
+      "url": "https://listado.mercadolibre.com.co/maquinas-industrias/",
+      "visited": false,
+      "totalItems": 37374
+    },
+    {
+      "name": "Seguridad para Industrias",
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/seguridad-industrias/",
+      "visited": false,
+      "totalItems": 172011
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/industrias-y-oficinas/otros/",
+      "visited": false,
+      "totalItems": 40469
+    },
+    {
+      "name": "Apartamentos",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/apartamentos/",
+      "visited": false,
+      "totalItems": 103328
+    },
+    {
+      "name": "Bodegas",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/bodegas/",
+      "visited": false,
+      "totalItems": 7095
+    },
+    {
+      "name": "Casas",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/casas/",
+      "visited": false,
+      "totalItems": 48007
+    },
+    {
+      "name": "Consultorio",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/consultorio/",
+      "visited": false,
+      "totalItems": 361
+    },
+    {
+      "name": "Edificios",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/edificios/",
+      "visited": false,
+      "totalItems": 1627
+    },
+    {
+      "name": "Fincas",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/fincas/",
+      "visited": false,
+      "totalItems": 8017
+    },
+    {
+      "name": "Habitaciones",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/habitaciones/",
+      "visited": false,
+      "totalItems": 189
+    },
+    {
+      "name": "Haciendas",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/haciendas/",
+      "visited": false,
+      "totalItems": 243
+    },
+    {
+      "name": "Hoteles y Resorts",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/hoteles-resorts/",
+      "visited": false,
+      "totalItems": 192
+    },
+    {
+      "name": "Locales",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/locales/",
+      "visited": false,
+      "totalItems": 13227
+    },
+    {
+      "name": "Lotes y Casalotes",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/lotes-casalotes/",
+      "visited": false,
+      "totalItems": 9371
+    },
+    {
+      "name": "Negocios",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/negocios/",
+      "visited": false,
+      "totalItems": 892
+    },
+    {
+      "name": "Oficinas",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/oficinas/",
+      "visited": false,
+      "totalItems": 11064
+    },
+    {
+      "name": "Parcelas de Cementerio",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/parcelas-cementerio/",
+      "visited": false,
+      "totalItems": 34
+    },
+    {
+      "name": "Otros Inmuebles",
+      "url": "https://listado.mercadolibre.com.co/inmuebles/otros/",
+      "visited": false,
+      "totalItems": 959
+    },
+    {
+      "name": "Amplificadores",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/amplificadores/",
+      "visited": false,
+      "totalItems": 5784
+    },
+    {
+      "name": "Bajos y Accesorios",
+      "url": "https://listado.mercadolibre.com.co/bajos-accesorios/",
+      "visited": false,
+      "totalItems": 5875
+    },
+    {
+      "name": "Baterías y Percusión",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/baterias-percusion/",
+      "visited": false,
+      "totalItems": 26430
+    },
+    {
+      "name": "Guitarras",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/guitarras/",
+      "visited": false,
+      "totalItems": 121245
+    },
+    {
+      "name": "Instrumentos de Viento",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/instrumentos-viento/",
+      "visited": false,
+      "totalItems": 33913
+    },
+    {
+      "name": "Micrófonos",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/microfonos/",
+      "visited": false,
+      "totalItems": 54815
+    },
+    {
+      "name": "Partituras",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/partituras/",
+      "visited": false,
+      "totalItems": 1162
+    },
+    {
+      "name": "Teclados y Pianos",
+      "url": "https://listado.mercadolibre.com.co/teclados-pianos/",
+      "visited": false,
+      "totalItems": 14546
+    },
+    {
+      "name": "Ukeleles",
+      "url": "https://listado.mercadolibre.com.co/ukeleles/",
+      "visited": false,
+      "totalItems": 4332
+    },
+    {
+      "name": "Violines",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/violines/",
+      "visited": false,
+      "totalItems": 7635
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicales/otros/",
+      "visited": false,
+      "totalItems": 18252
+    },
+    {
+      "name": "Armas y Lanzadores de Juguetes",
+      "url": "https://listado.mercadolibre.com.co/armas-lanzadores-juguetes/",
+      "visited": false,
+      "totalItems": 10323
+    },
+    {
+      "name": "Bloques y Construcción",
+      "url": "https://listado.mercadolibre.com.co/bloques-construccion/",
+      "visited": false,
+      "totalItems": 155055
+    },
+    {
+      "name": "Casas y Carpas para Niños",
+      "url": "https://listado.mercadolibre.com.co/casas-carpas-ninos/",
+      "visited": false,
+      "totalItems": 7019
+    },
+    {
+      "name": "Dibujo, Pintura y Manualidades",
+      "url": "https://listado.mercadolibre.com.co/dibujo-pintura-manualidades/",
+      "visited": false,
+      "totalItems": 37524
+    },
+    {
+      "name": "Electrónicos para Niños",
+      "url": "https://listado.mercadolibre.com.co/electronicos-ninos/",
+      "visited": false,
+      "totalItems": 28555
+    },
+    {
+      "name": "Figuritas, Álbumes y Cromos",
+      "url": "https://listado.mercadolibre.com.co/figuritas-albumes-cromos/",
+      "visited": false,
+      "totalItems": 14245
+    },
+    {
+      "name": "Hobbies",
+      "url": "https://listado.mercadolibre.com.co/hobbies/",
+      "visited": false,
+      "totalItems": 21005
+    },
+    {
+      "name": "Instrumentos Musicales",
+      "url": "https://listado.mercadolibre.com.co/instrumentos-musicale/",
+      "visited": false,
+      "totalItems": 2088
+    },
+    {
+      "name": "Juegos de Agua y Playa",
+      "url": "https://listado.mercadolibre.com.co/juegos-agua-playa/",
+      "visited": false,
+      "totalItems": 30033
+    },
+    {
+      "name": "Juegos de Mesa y Cartas",
+      "url": "https://listado.mercadolibre.com.co/juegos-mesa-cartas/",
+      "visited": false,
+      "totalItems": 278067
+    },
+    {
+      "name": "Juegos de Parque y Aire Libre",
+      "url": "https://listado.mercadolibre.com.co/juegos-parque-aire-libre/",
+      "visited": false,
+      "totalItems": 23669
+    },
+    {
+      "name": "Juegos de Salón",
+      "url": "https://listado.mercadolibre.com.co/juegos-salon/",
+      "visited": false,
+      "totalItems": 11333
+    },
+    {
+      "name": "Juguetes Antiestrés e Ingenio",
+      "url": "https://listado.mercadolibre.com.co/juguetes-antiestres-e-ingenio/",
+      "visited": false,
+      "totalItems": 20841
+    },
+    {
+      "name": "Juguetes de Bromas",
+      "url": "https://listado.mercadolibre.com.co/juguetes-bromas/",
+      "visited": false,
+      "totalItems": 49
+    },
+    {
+      "name": "Juguetes de Oficios",
+      "url": "https://listado.mercadolibre.com.co/juguetes-oficios/",
+      "visited": false,
+      "totalItems": 13091
+    },
+    {
+      "name": "Juguetes para Bebés",
+      "url": "https://listado.mercadolibre.com.co/juguetes-bebes/",
+      "visited": false,
+      "totalItems": 66788
+    },
+    {
+      "name": "Mesas y Sillas para Niños",
+      "url": "https://listado.mercadolibre.com.co/mesas-sillas-ninos/",
+      "visited": false,
+      "totalItems": 111
+    },
+    {
+      "name": "Muñecos y Muñecas",
+      "url": "https://listado.mercadolibre.com.co/munecos-munecas/",
+      "visited": false,
+      "totalItems": 836996
+    },
+    {
+      "name": "Patines y Patinetas",
+      "url": "https://listado.mercadolibre.com.co/patines-patinetas/",
+      "visited": false,
+      "totalItems": 5186
+    },
+    {
+      "name": "Pelotas y Animales Saltarines",
+      "url": "https://listado.mercadolibre.com.co/pelotas-animales-saltarines/",
+      "visited": false,
+      "totalItems": 6142
+    },
+    {
+      "name": "Peluches",
+      "url": "https://listado.mercadolibre.com.co/peluches/",
+      "visited": false,
+      "totalItems": 170998
+    },
+    {
+      "name": "Piscinas y Castillos",
+      "url": "https://listado.mercadolibre.com.co/piscinas-castillos/",
+      "visited": false,
+      "totalItems": 2776
+    },
+    {
+      "name": "Títeres y Marionetas",
+      "url": "https://listado.mercadolibre.com.co/titeres-marionetas/",
+      "visited": false,
+      "totalItems": 2591
+    },
+    {
+      "name": "Vehículos de Juguete",
+      "url": "https://listado.mercadolibre.com.co/vehiculos-juguete/",
+      "visited": false,
+      "totalItems": 183231
+    },
+    {
+      "name": "Vehículos Montables para Niños",
+      "url": "https://listado.mercadolibre.com.co/vehiculos-montables-ninos/",
+      "visited": false,
+      "totalItems": 27028
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/otros/",
+      "visited": false,
+      "totalItems": 569945
+    },
+    {
+      "name": "Catálogos",
+      "url": "https://listado.mercadolibre.com.co/catalogos/",
+      "visited": false,
+      "totalItems": 60
+    },
+    {
+      "name": "Comics",
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/comics/",
+      "visited": false,
+      "totalItems": 11569
+    },
+    {
+      "name": "Libros",
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/libros/",
+      "visited": false,
+      "totalItems": 1167129
+    },
+    {
+      "name": "Manga",
+      "url": "https://listado.mercadolibre.com.co/manga/",
+      "visited": false,
+      "totalItems": 2707
+    },
+    {
+      "name": "Revistas",
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/revistas/",
+      "visited": false,
+      "totalItems": 3687
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/libros-revistas-comics/otros/",
+      "visited": false,
+      "totalItems": 11160
+    },
+    {
+      "name": "Música",
+      "url": "https://listado.mercadolibre.com.co/musica-peliculas-series/musica/",
+      "visited": false,
+      "totalItems": 83297
+    },
+    {
+      "name": "Películas",
+      "url": "https://listado.mercadolibre.com.co/musica-peliculas-series/peliculas/",
+      "visited": false,
+      "totalItems": 22582
+    },
+    {
+      "name": "Series de TV",
+      "url": "https://listado.mercadolibre.com.co/series-tv/",
+      "visited": false,
+      "totalItems": 6143
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/musica-peliculas-series/otros/",
+      "visited": false,
+      "totalItems": 1598
+    },
+    {
+      "name": "Artículos para Fiestas",
+      "url": "https://listado.mercadolibre.com.co/articulos-fiestas/",
+      "visited": false,
+      "totalItems": 34363
+    },
+    {
+      "name": "Decoración para Fiestas",
+      "url": "https://listado.mercadolibre.com.co/decoracion-fiestas/",
+      "visited": false,
+      "totalItems": 61330
+    },
+    {
+      "name": "Desechables para Fiestas",
+      "url": "https://listado.mercadolibre.com.co/desechables-fiestas/",
+      "visited": false,
+      "totalItems": 3593
+    },
+    {
+      "name": "Disfraces",
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/disfraces/",
+      "visited": false,
+      "totalItems": 230865
+    },
+    {
+      "name": "Espuma, Serpentina y Confeti",
+      "url": "https://listado.mercadolibre.com.co/espuma-serpentina-confeti/",
+      "visited": false,
+      "totalItems": 17
+    },
+    {
+      "name": "Kits Imprimibles para Fiestas",
+      "url": "https://listado.mercadolibre.com.co/kits-imprimibles-fiestas/",
+      "visited": false,
+      "totalItems": 4621
+    },
+    {
+      "name": "Props para Photo Booths",
+      "url": "https://listado.mercadolibre.com.co/props-photo-booths/",
+      "visited": false,
+      "totalItems": 1
+    },
+    {
+      "name": "Recuerdos",
+      "url": "https://listado.mercadolibre.com.co/recuerdos/",
+      "visited": false,
+      "totalItems": 7860
+    },
+    {
+      "name": "Tarjetas de Invitación",
+      "url": "https://listado.mercadolibre.com.co/pinateria-tarjetas-invitacion/",
+      "visited": false,
+      "totalItems": 3628
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/juegos-juguetes/pinateria/otros/",
+      "visited": false,
+      "totalItems": 9877
+    },
+    {
+      "name": "Joyería",
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/joyeria/",
+      "visited": false,
+      "totalItems": 418996
+    },
+    {
+      "name": "Relojes de Bolsillo",
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/relojes-bolsillo/",
+      "visited": false,
+      "totalItems": 39556
+    },
+    {
+      "name": "Relojes de Pulso",
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/relojes-pulso/",
+      "visited": false,
+      "totalItems": 465956
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/relojes-joyas/otros/",
+      "visited": false,
+      "totalItems": 19993
+    },
+    {
+      "name": "Accesorios de Moda",
+      "url": "https://listado.mercadolibre.com.co/ropa/accesorios-moda/",
+      "visited": false,
+      "totalItems": 316931
+    },
+    {
+      "name": "Bermudas y Pantalonetas",
+      "url": "https://listado.mercadolibre.com.co/ropa/bermudas-pantalonetas/",
+      "visited": false,
+      "totalItems": 5672
+    },
+    {
+      "name": "Blusas",
+      "url": "https://listado.mercadolibre.com.co/ropa/blusas/",
+      "visited": false,
+      "totalItems": 18505
+    },
+    {
+      "name": "Bolsos, Carteras y Maletines",
+      "url": "https://listado.mercadolibre.com.co/ropa/bolsos-carteras-maletines/",
+      "visited": false,
+      "totalItems": 434186
+    },
+    {
+      "name": "Buzos",
+      "url": "https://listado.mercadolibre.com.co/ropa/buzos/",
+      "visited": false,
+      "totalItems": 25740
+    },
+    {
+      "name": "Camisas",
+      "url": "https://listado.mercadolibre.com.co/ropa/camisas/",
+      "visited": false,
+      "totalItems": 26223
+    },
+    {
+      "name": "Camisetas",
+      "url": "https://listado.mercadolibre.com.co/ropa/camisetas/",
+      "visited": false,
+      "totalItems": 53128
+    },
+    {
+      "name": "Chalecos",
+      "url": "https://listado.mercadolibre.com.co/ropa/chalecos/",
+      "visited": false,
+      "totalItems": 5757
+    },
+    {
+      "name": "Chaquetas y Abrigos",
+      "url": "https://listado.mercadolibre.com.co/ropa/chaquetas-abrigos/",
+      "visited": false,
+      "totalItems": 22909
+    },
+    {
+      "name": "Faldas",
+      "url": "https://listado.mercadolibre.com.co/ropa/faldas/",
+      "visited": false,
+      "totalItems": 4037
+    },
+    {
+      "name": "Gabán",
+      "url": "https://listado.mercadolibre.com.co/ropa/gabanes/",
+      "visited": false,
+      "totalItems": 409
+    },
+    {
+      "name": "Gafas",
+      "url": "https://listado.mercadolibre.com.co/ropa/gafas/",
+      "visited": false,
+      "totalItems": 79607
+    },
+    {
+      "name": "Pantalones y Jeans",
+      "url": "https://listado.mercadolibre.com.co/ropa/pantalones-jeans/",
+      "visited": false,
+      "totalItems": 64131
+    },
+    {
+      "name": "Pijamas",
+      "url": "https://listado.mercadolibre.com.co/ropa/pijamas/",
+      "visited": false,
+      "totalItems": 8993
+    },
+    {
+      "name": "Ropa Deportiva",
+      "url": "https://listado.mercadolibre.com.co/ropa/deportiva/",
+      "visited": false,
+      "totalItems": 43797
+    },
+    {
+      "name": "Ropa Interior",
+      "url": "https://listado.mercadolibre.com.co/ropa/interior/",
+      "visited": false,
+      "totalItems": 100234
+    },
+    {
+      "name": "Ropa para Bebés",
+      "url": "https://listado.mercadolibre.com.co/ropa/bebes/",
+      "visited": false,
+      "totalItems": 61917
+    },
+    {
+      "name": "Sacos y Cardigans",
+      "url": "https://listado.mercadolibre.com.co/ropa/sacos-cardigans/",
+      "visited": false,
+      "totalItems": 8015
+    },
+    {
+      "name": "Tenis",
+      "url": "https://listado.mercadolibre.com.co/ropa/tenis/",
+      "visited": false,
+      "totalItems": 112839
+    },
+    {
+      "name": "Trajes",
+      "url": "https://listado.mercadolibre.com.co/ropa/trajes/",
+      "visited": false,
+      "totalItems": 13729
+    },
+    {
+      "name": "Vestidos",
+      "url": "https://listado.mercadolibre.com.co/ropa/vestidos/",
+      "visited": false,
+      "totalItems": 49551
+    },
+    {
+      "name": "Vestidos de Baño",
+      "url": "https://listado.mercadolibre.com.co/ropa/vestidos-bano/",
+      "visited": false,
+      "totalItems": 14323
+    },
+    {
+      "name": "Zapatos",
+      "url": "https://listado.mercadolibre.com.co/ropa/zapatos/",
+      "visited": false,
+      "totalItems": 118320
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/ropa/otros/",
+      "visited": false,
+      "totalItems": 126152
+    },
+    {
+      "name": "Cuidado de la Salud",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-cuidado/",
+      "visited": false,
+      "totalItems": 24618
+    },
+    {
+      "name": "Equipamiento Médico",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medic/",
+      "visited": false,
+      "totalItems": 28166
+    },
+    {
+      "name": "Equipamiento Odontológico",
+      "url": "https://listado.mercadolibre.com.co/equipamiento-odontologico/",
+      "visited": false,
+      "totalItems": 2687
+    },
+    {
+      "name": "Equipos de Movilidad",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-equipos-movilidad/",
+      "visited": false,
+      "totalItems": 16451
+    },
+    {
+      "name": "Fajas y Cinturillas",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-fajas-cinturillas/",
+      "visited": false,
+      "totalItems": 31715
+    },
+    {
+      "name": "Masajes",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-masajes/",
+      "visited": false,
+      "totalItems": 13803
+    },
+    {
+      "name": "Ortopedia",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-ortopedia/",
+      "visited": false,
+      "totalItems": 17430
+    },
+    {
+      "name": "Suplementos Alimenticios",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-suplementos-alimenticios/",
+      "visited": false,
+      "totalItems": 180425
+    },
+    {
+      "name": "Terapias Alternativas",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-terapias-alternativas/",
+      "visited": false,
+      "totalItems": 1515
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/salud-equipamiento-medico-otros/",
+      "visited": false,
+      "totalItems": 6050
+    },
+    {
+      "name": "Belleza e Higiene Personal",
+      "url": "https://servicios.mercadolibre.com.co/belleza-higiene-personal/",
+      "visited": false,
+      "totalItems": 303
+    },
+    {
+      "name": "Cursos y Clases",
+      "url": "https://servicios.mercadolibre.com.co/cursos-clases/",
+      "visited": false,
+      "totalItems": 379
+    },
+    {
+      "name": "Fiestas y Eventos",
+      "url": "https://servicios.mercadolibre.com.co/fiestas-eventos/",
+      "visited": false,
+      "totalItems": 745
+    },
+    {
+      "name": "Hogar",
+      "url": "https://servicios.mercadolibre.com.co/hogar/",
+      "visited": false,
+      "totalItems": 382
+    },
+    {
+      "name": "Mantenimiento de Vehículos",
+      "url": "https://servicios.mercadolibre.com.co/mantenimiento-vehiculos/",
+      "visited": false,
+      "totalItems": 147
+    },
+    {
+      "name": "Medicina y Salud",
+      "url": "https://servicios.mercadolibre.com.co/medicina-salud/",
+      "visited": false,
+      "totalItems": 240
+    },
+    {
+      "name": "Profesionales",
+      "url": "https://servicios.mercadolibre.com.co/profesionales/",
+      "visited": false,
+      "totalItems": 378
+    },
+    {
+      "name": "Reparaciones e Instalaciones",
+      "url": "https://servicios.mercadolibre.com.co/reparaciones-instalaciones/",
+      "visited": false,
+      "totalItems": 617
+    },
+    {
+      "name": "Ropa e Indumentaria",
+      "url": "https://servicios.mercadolibre.com.co/ropa-indumentaria/",
+      "visited": false,
+      "totalItems": 52
+    },
+    {
+      "name": "Servicios para Mascotas",
+      "url": "https://servicios.mercadolibre.com.co/mascotas/",
+      "visited": false,
+      "totalItems": 208
+    },
+    {
+      "name": "Transporte",
+      "url": "https://servicios.mercadolibre.com.co/transporte/",
+      "visited": false,
+      "totalItems": 244
+    },
+    {
+      "name": "Viajes y Turismo",
+      "url": "https://servicios.mercadolibre.com.co/viajes-turismo/",
+      "visited": false,
+      "totalItems": 158
+    },
+    {
+      "name": "Otros",
+      "url": "https://servicios.mercadolibre.com.co/otros/otros/",
+      "visited": false,
+      "totalItems": 2059
+    },
+    {
+      "name": "Adultos",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/adultos/",
+      "visited": false,
+      "totalItems": null
+    },
+    {
+      "name": "Antigüedades",
+      "url": "https://listado.mercadolibre.com.co/antiguedades/",
+      "visited": false,
+      "totalItems": 24644
+    },
+    {
+      "name": "Asistencia al Viajero",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/asistencia-viajero/",
+      "visited": false,
+      "totalItems": 603
+    },
+    {
+      "name": "Carros de Comidas",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/carros-comidas/",
+      "visited": false,
+      "totalItems": 2429
+    },
+    {
+      "name": "Coberturas Extendidas",
+      "url": "https://listado.mercadolibre.com.co/coberturas-extendidas/",
+      "visited": false,
+      "totalItems": 2
+    },
+    {
+      "name": "Criptomonedas",
+      "url": "https://listado.mercadolibre.com.co/criptomonedas/",
+      "visited": false,
+      "totalItems": 30
+    },
+    {
+      "name": "Esoterismo",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/esoterismo/",
+      "visited": false,
+      "totalItems": 1330
+    },
+    {
+      "name": "Espiritualidad y Religión",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/espiritualidad-religion/",
+      "visited": false,
+      "totalItems": 3568
+    },
+    {
+      "name": "Giftcards",
+      "url": "https://listado.mercadolibre.com.co/giftcards/",
+      "visited": false,
+      "totalItems": 445
+    },
+    {
+      "name": "Giros",
+      "url": "https://listado.mercadolibre.com.co/giros/",
+      "visited": false,
+      "totalItems": 10
+    },
+    {
+      "name": "Kits de Criminalística",
+      "url": "https://listado.mercadolibre.com.co/kits-criminalistica/",
+      "visited": false,
+      "totalItems": 7
+    },
+    {
+      "name": "Licencias para Taxis",
+      "url": "https://listado.mercadolibre.com.co/licencias-taxis/",
+      "visited": false,
+      "totalItems": 4
+    },
+    {
+      "name": "Mangas de Viento",
+      "url": "https://listado.mercadolibre.com.co/mangas-viento/",
+      "visited": false,
+      "totalItems": 3
+    },
+    {
+      "name": "Productos para Tatuajes",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/productos-tatuajes/",
+      "visited": false,
+      "totalItems": 10950
+    },
+    {
+      "name": "Otros",
+      "url": "https://listado.mercadolibre.com.co/otras-categorias/otros/",
+      "visited": false,
+      "totalItems": 565465
+    }
+  ]
+}

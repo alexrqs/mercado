@@ -1,0 +1,569 @@
+{
+  "items": [
+    {
+      "storeName": "adata",
+      "totalProducts": 673,
+      "totalMoney": "124,322,300"
+    },
+    {
+      "storeName": "abba",
+      "totalProducts": 4185,
+      "totalMoney": "1,510,980,754"
+    },
+    {
+      "storeName": "aerocool",
+      "totalProducts": 831,
+      "totalMoney": "95,674,100"
+    },
+    {
+      "storeName": "amoblando-pullman",
+      "totalProducts": 5665,
+      "totalMoney": "3,267,904,000"
+    },
+    {
+      "storeName": "asus",
+      "totalProducts": 273,
+      "totalMoney": "379,666,108"
+    },
+    {
+      "storeName": "audiopro",
+      "totalProducts": 578,
+      "totalMoney": "102,284,800"
+    },
+    {
+      "storeName": "babyliss-pro",
+      "totalProducts": 1030,
+      "totalMoney": "308,890,000"
+    },
+    {
+      "storeName": "belltec",
+      "totalProducts": 6753,
+      "totalMoney": "1,348,182,604"
+    },
+    {
+      "storeName": "black-and-decker-herramientas",
+      "totalProducts": 866,
+      "totalMoney": "138,258,800"
+    },
+    {
+      "storeName": "bosch",
+      "totalProducts": 567,
+      "totalMoney": "165,777,200"
+    },
+    {
+      "storeName": "brake-pak",
+      "totalProducts": 967,
+      "totalMoney": "160,642,400"
+    },
+    {
+      "storeName": "brightside",
+      "totalProducts": 2011,
+      "totalMoney": "111,351,100"
+    },
+    {
+      "storeName": "canon",
+      "totalProducts": 1175,
+      "totalMoney": "265,652,100"
+    },
+    {
+      "storeName": "casa-ferretera",
+      "totalProducts": 1505,
+      "totalMoney": "231,626,732"
+    },
+    {
+      "storeName": "celestron",
+      "totalProducts": 442,
+      "totalMoney": "182,033,000"
+    },
+    {
+      "storeName": "centrales",
+      "totalProducts": 149,
+      "totalMoney": "116,396,100"
+    },
+    {
+      "storeName": "challenger",
+      "totalProducts": 496,
+      "totalMoney": "338,001,400"
+    },
+    {
+      "storeName": "cougar",
+      "totalProducts": 445,
+      "totalMoney": "115,143,000"
+    },
+    {
+      "storeName": "dji",
+      "totalProducts": 468,
+      "totalMoney": "438,210,200"
+    },
+    {
+      "storeName": "defender",
+      "totalProducts": 590,
+      "totalMoney": "126,352,439"
+    },
+    {
+      "storeName": "diagnostiq",
+      "totalProducts": 1149,
+      "totalMoney": "278,067,500"
+    },
+    {
+      "storeName": "dremel",
+      "totalProducts": 1221,
+      "totalMoney": "217,079,595"
+    },
+    {
+      "storeName": "dtfly",
+      "totalProducts": 1624,
+      "totalMoney": "874,546,400"
+    },
+    {
+      "storeName": "easy",
+      "totalProducts": 27731,
+      "totalMoney": "3,230,491,719"
+    },
+    {
+      "storeName": "easy-hitch",
+      "totalProducts": 190,
+      "totalMoney": "110,362,737"
+    },
+    {
+      "storeName": "electro-japonesa",
+      "totalProducts": 267,
+      "totalMoney": "295,337,000"
+    },
+    {
+      "storeName": "electrolux",
+      "totalProducts": 1874,
+      "totalMoney": "950,451,600"
+    },
+    {
+      "storeName": "elite",
+      "totalProducts": 1576,
+      "totalMoney": "533,040,470"
+    },
+    {
+      "storeName": "ensueno-hogar",
+      "totalProducts": 819,
+      "totalMoney": "539,843,800"
+    },
+    {
+      "storeName": "epson",
+      "totalProducts": 2953,
+      "totalMoney": "1,555,391,700"
+    },
+    {
+      "storeName": "explora",
+      "totalProducts": 1872,
+      "totalMoney": "253,290,800"
+    },
+    {
+      "storeName": "fantasia-electronica",
+      "totalProducts": 902,
+      "totalMoney": "323,662,200"
+    },
+    {
+      "storeName": "ferreteria-samir",
+      "totalProducts": 7660,
+      "totalMoney": "961,055,647"
+    },
+    {
+      "storeName": "foxcol",
+      "totalProducts": 955,
+      "totalMoney": "249,902,769"
+    },
+    {
+      "storeName": "fujifilm",
+      "totalProducts": 819,
+      "totalMoney": "133,575,303"
+    },
+    {
+      "storeName": "gopro",
+      "totalProducts": 673,
+      "totalMoney": "723,907,700"
+    },
+    {
+      "storeName": "google",
+      "totalProducts": 574,
+      "totalMoney": "114,742,600"
+    },
+    {
+      "storeName": "hp",
+      "totalProducts": 5156,
+      "totalMoney": "1,078,762,100"
+    },
+    {
+      "storeName": "haceb",
+      "totalProducts": 848,
+      "totalMoney": "398,715,268"
+    },
+    {
+      "storeName": "hamilton-beach",
+      "totalProducts": 766,
+      "totalMoney": "151,735,760"
+    },
+    {
+      "storeName": "happy-bear",
+      "totalProducts": 24094,
+      "totalMoney": "1,460,851,300"
+    },
+    {
+      "storeName": "home--cook",
+      "totalProducts": 1332,
+      "totalMoney": "245,545,175"
+    },
+    {
+      "storeName": "home-elements",
+      "totalProducts": 1188,
+      "totalMoney": "127,716,200"
+    },
+    {
+      "storeName": "huawei",
+      "totalProducts": 248,
+      "totalMoney": "108,848,027"
+    },
+    {
+      "storeName": "huggies",
+      "totalProducts": 1778,
+      "totalMoney": "123,660,700"
+    },
+    {
+      "storeName": "iceberg",
+      "totalProducts": 1762,
+      "totalMoney": "334,462,898"
+    },
+    {
+      "storeName": "intex",
+      "totalProducts": 820,
+      "totalMoney": "131,517,000"
+    },
+    {
+      "storeName": "invicta",
+      "totalProducts": 1156,
+      "totalMoney": "454,654,400"
+    },
+    {
+      "storeName": "kalley",
+      "totalProducts": 1585,
+      "totalMoney": "193,192,937"
+    },
+    {
+      "storeName": "kanu",
+      "totalProducts": 5028,
+      "totalMoney": "223,544,732"
+    },
+    {
+      "storeName": "kingston",
+      "totalProducts": 1780,
+      "totalMoney": "347,370,500"
+    },
+    {
+      "storeName": "kitchenaid",
+      "totalProducts": 604,
+      "totalMoney": "379,885,850"
+    },
+    {
+      "storeName": "la-colonial",
+      "totalProducts": 340,
+      "totalMoney": "115,743,324"
+    },
+    {
+      "storeName": "lenovo",
+      "totalProducts": 159,
+      "totalMoney": "174,771,000"
+    },
+    {
+      "storeName": "libreria-de-la-u",
+      "totalProducts": 4989,
+      "totalMoney": "265,945,992"
+    },
+    {
+      "storeName": "logitech",
+      "totalProducts": 5987,
+      "totalMoney": "1,054,621,270"
+    },
+    {
+      "storeName": "mabe",
+      "totalProducts": 3665,
+      "totalMoney": "3,210,846,300"
+    },
+    {
+      "storeName": "makita",
+      "totalProducts": 497,
+      "totalMoney": "196,214,900"
+    },
+    {
+      "storeName": "mansion",
+      "totalProducts": 1449,
+      "totalMoney": "1,124,735,100"
+    },
+    {
+      "storeName": "maquitodo",
+      "totalProducts": 3577,
+      "totalMoney": "732,331,449"
+    },
+    {
+      "storeName": "megashop-tv",
+      "totalProducts": 9031,
+      "totalMoney": "570,821,340"
+    },
+    {
+      "storeName": "gamo",
+      "totalProducts": 1389,
+      "totalMoney": "131,504,400"
+    },
+    {
+      "storeName": "gw",
+      "totalProducts": 5984,
+      "totalMoney": "1,227,274,519"
+    },
+    {
+      "storeName": "garabatos",
+      "totalProducts": 12676,
+      "totalMoney": "455,403,000"
+    },
+    {
+      "storeName": "general-electric",
+      "totalProducts": 758,
+      "totalMoney": "498,571,000"
+    },
+    {
+      "storeName": "muebles-dummi",
+      "totalProducts": 4696,
+      "totalMoney": "695,097,590"
+    },
+    {
+      "storeName": "muebles-online",
+      "totalProducts": 702,
+      "totalMoney": "673,218,000"
+    },
+    {
+      "storeName": "mundimotos",
+      "totalProducts": 1999,
+      "totalMoney": "241,975,100"
+    },
+    {
+      "storeName": "neffos",
+      "totalProducts": 938,
+      "totalMoney": "191,091,740"
+    },
+    {
+      "storeName": "ninebot",
+      "totalProducts": 321,
+      "totalMoney": "1,197,804,070"
+    },
+    {
+      "storeName": "north-bayou",
+      "totalProducts": 8208,
+      "totalMoney": "767,215,201"
+    },
+    {
+      "storeName": "onguard",
+      "totalProducts": 1651,
+      "totalMoney": "243,862,880"
+    },
+    {
+      "storeName": "oportunidades",
+      "totalProducts": 1350,
+      "totalMoney": "493,264,000"
+    },
+    {
+      "storeName": "ortizo",
+      "totalProducts": 760,
+      "totalMoney": "159,610,566"
+    },
+    {
+      "storeName": "ortopedicos-futuro",
+      "totalProducts": 4418,
+      "totalMoney": "429,430,870"
+    },
+    {
+      "storeName": "oster",
+      "totalProducts": 8674,
+      "totalMoney": "1,376,964,605"
+    },
+    {
+      "storeName": "pamo",
+      "totalProducts": 15293,
+      "totalMoney": "1,448,867,006"
+    },
+    {
+      "storeName": "philips",
+      "totalProducts": 1008,
+      "totalMoney": "171,614,455"
+    },
+    {
+      "storeName": "playpro",
+      "totalProducts": 374,
+      "totalMoney": "202,086,000"
+    },
+    {
+      "storeName": "polar",
+      "totalProducts": 152,
+      "totalMoney": "118,628,000"
+    },
+    {
+      "storeName": "provipets",
+      "totalProducts": 4562,
+      "totalMoney": "650,693,000"
+    },
+    {
+      "storeName": "qyq",
+      "totalProducts": 2205,
+      "totalMoney": "206,878,100"
+    },
+    {
+      "storeName": "relax-home",
+      "totalProducts": 182,
+      "totalMoney": "122,111,800"
+    },
+    {
+      "storeName": "rem",
+      "totalProducts": 1397,
+      "totalMoney": "1,057,947,300"
+    },
+    {
+      "storeName": "rimax",
+      "totalProducts": 1087,
+      "totalMoney": "194,928,866"
+    },
+    {
+      "storeName": "roadmaster",
+      "totalProducts": 765,
+      "totalMoney": "106,329,700"
+    },
+    {
+      "storeName": "samsung",
+      "totalProducts": 4789,
+      "totalMoney": "4,927,488,111"
+    },
+    {
+      "storeName": "sandisk",
+      "totalProducts": 5465,
+      "totalMoney": "268,472,650"
+    },
+    {
+      "storeName": "schaffhausen",
+      "totalProducts": 3271,
+      "totalMoney": "610,664,400"
+    },
+    {
+      "storeName": "select",
+      "totalProducts": 828,
+      "totalMoney": "260,484,601"
+    },
+    {
+      "storeName": "singer",
+      "totalProducts": 812,
+      "totalMoney": "427,495,347"
+    },
+    {
+      "storeName": "skil",
+      "totalProducts": 472,
+      "totalMoney": "105,644,400"
+    },
+    {
+      "storeName": "soelco",
+      "totalProducts": 590,
+      "totalMoney": "182,710,000"
+    },
+    {
+      "storeName": "sony",
+      "totalProducts": 14705,
+      "totalMoney": "4,056,801,832"
+    },
+    {
+      "storeName": "sport-fitness",
+      "totalProducts": 8043,
+      "totalMoney": "887,397,700"
+    },
+    {
+      "storeName": "tplink",
+      "totalProducts": 8274,
+      "totalMoney": "824,025,130"
+    },
+    {
+      "storeName": "targus",
+      "totalProducts": 2819,
+      "totalMoney": "261,307,920"
+    },
+    {
+      "storeName": "tecnical-music",
+      "totalProducts": 362,
+      "totalMoney": "249,158,000"
+    },
+    {
+      "storeName": "teknopolis",
+      "totalProducts": 7835,
+      "totalMoney": "742,668,900"
+    },
+    {
+      "storeName": "thule",
+      "totalProducts": 159,
+      "totalMoney": "184,013,100"
+    },
+    {
+      "storeName": "tool-store",
+      "totalProducts": 2445,
+      "totalMoney": "894,353,550"
+    },
+    {
+      "storeName": "toshiba",
+      "totalProducts": 937,
+      "totalMoney": "195,760,300"
+    },
+    {
+      "storeName": "totto",
+      "totalProducts": 2018,
+      "totalMoney": "135,995,500"
+    },
+    {
+      "storeName": "tubici-bike-shop",
+      "totalProducts": 9501,
+      "totalMoney": "3,860,848,260"
+    },
+    {
+      "storeName": "universal-de-tornillos",
+      "totalProducts": 1491,
+      "totalMoney": "271,602,768"
+    },
+    {
+      "storeName": "vento",
+      "totalProducts": 334,
+      "totalMoney": "137,425,600"
+    },
+    {
+      "storeName": "virtualllantas",
+      "totalProducts": 4303,
+      "totalMoney": "1,110,813,771"
+    },
+    {
+      "storeName": "wacom",
+      "totalProducts": 1195,
+      "totalMoney": "461,634,200"
+    },
+    {
+      "storeName": "weathertech",
+      "totalProducts": 398,
+      "totalMoney": "220,139,720"
+    },
+    {
+      "storeName": "whirlpool",
+      "totalProducts": 884,
+      "totalMoney": "1,060,015,000"
+    },
+    {
+      "storeName": "wintermat",
+      "totalProducts": 1455,
+      "totalMoney": "343,533,756"
+    },
+    {
+      "storeName": "yamaha",
+      "totalProducts": 1774,
+      "totalMoney": "190,581,476"
+    },
+    {
+      "storeName": "yamaha-musical",
+      "totalProducts": 1049,
+      "totalMoney": "693,410,720"
+    }
+  ]
+}

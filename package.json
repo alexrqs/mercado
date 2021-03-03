@@ -27,7 +27,7 @@
     "mongoose": "^5.8.4",
     "progress": "^2.0.3",
     "prop-types": "^15.6.2",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "puppeteer": "^2.0.0",
     "react": "^16.6.0",
